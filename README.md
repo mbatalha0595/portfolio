@@ -45,5 +45,5 @@ Este aplicativo tem como objetivo permitir a gestão de reservas de um espaço d
 Este fluxo tem como objetivo extrair imagens de satélites da NASA via API REST, onde cada imagem é salva no SharePoint e enviada por e-mail.
 
 <a href="https://github.com/mbatalha0595/fluxo-nasa">
-<img src="https://raw.githubusercontent.com/mbatalha0595/fluxo-nasa/main/images/Imoveis.jpg" width="750">
+<img src="https://raw.githubusercontent.com/mbatalha0595/fluxo-nasa/main/images/2.png" width="750">
 </a>
