@@ -34,7 +34,7 @@ Este aplicativo tem como objetivo permitir a gestão de imóveis de uma imobili�
 Este aplicativo tem como objetivo permitir a gestão de reservas de um espaço de trabalho compartilhado (cowork).
 
 <a href="https://github.com/mbatalha0595/aplicativo-reservas">
-<img src="https://raw.githubusercontent.com/mbatalha0595/aplicativo-reservas/main/images/TelaReservas.jpg" width="750">
+<img src="https://raw.githubusercontent.com/mbatalha0595/aplicativo-reservas/main/images/TelaReservas.png" width="750">
 </a>
 
 <a></a>
