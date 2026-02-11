@@ -1,15 +1,18 @@
 # Portfólio
+
 Seja bem vindo ao meu portfólio.
 
 Sou Marcelo Batalha, desenvolvedor Power Platform.
 
 <a href="https://www.linkedin.com/in/marcelobatalha/">Linkedin</a>
 
-# Projetos
+***
 
-## Power BI
+## Projetos
 
-### Projeto 1 - Relatório de Pedidos
+### Power BI
+
+#### Relatório de Pedidos
 Este relatório tem como objetivo permitir a análise de pedidos de uma loja de camisetas.
 
 <a href="https://github.com/mbatalha0595/relatorio-pedidos">
@@ -18,16 +21,16 @@ Este relatório tem como objetivo permitir a análise de pedidos de uma loja de 
 
 <a></a>
 
-### Projeto 2 - Relatório de Vendas
+#### Relatório de Vendas
 Este relatório tem como objetivo permitir a análise de vendas de uma loja de automóveis.
 
 <a href="https://github.com/mbatalha0595/relatorio-vendas">
 <img src="https://raw.githubusercontent.com/mbatalha0595/relatorio-vendas/main/images/Resumo.jpg" width="750">
 </a>
 
-## Power Apps
+### Power Apps
 
-### Projeto 1 - Gestão de Imóveis
+#### Gestão de Imóveis
 Este aplicativo tem como objetivo permitir a gestão de imóveis de uma imobiliária.
 
 <a href="https://github.com/mbatalha0595/aplicativo-imobiliaria">
@@ -36,7 +39,7 @@ Este aplicativo tem como objetivo permitir a gestão de imóveis de uma imobili�
 
 <a></a>
 
-### Projeto 2 - Gestão de Reservas
+#### Gestão de Reservas
 Este aplicativo tem como objetivo permitir a gestão de reservas de um espaço de trabalho compartilhado (cowork).
 
 <a href="https://github.com/mbatalha0595/aplicativo-reservas">
@@ -45,9 +48,9 @@ Este aplicativo tem como objetivo permitir a gestão de reservas de um espaço d
 
 <a></a>
 
-## Power Automate
+### Power Automate
 
-### Projeto 1 - Extração de Imagens da NASA via API REST
+#### Extração de Imagens da NASA via API REST
 Este fluxo tem como objetivo extrair imagens de satélites da NASA via API REST, onde cada imagem é salva no SharePoint e enviada por e-mail.
 
 <a href="https://github.com/mbatalha0595/fluxo-nasa">
