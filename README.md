@@ -47,7 +47,7 @@ Este aplicativo tem como objetivo permitir a gestão de reservas de um espaço d
 
 ## Power Automate
 
-### Projeto 1 - Fluxo de Extração de Imagens da NASA via API REST
+### Projeto 1 - Extração de Imagens da NASA via API REST
 Este fluxo tem como objetivo extrair imagens de satélites da NASA via API REST, onde cada imagem é salva no SharePoint e enviada por e-mail.
 
 <a href="https://github.com/mbatalha0595/fluxo-nasa">
