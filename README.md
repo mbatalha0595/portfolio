@@ -1,11 +1,5 @@
 # PORTFÓLIO
 
-Seja bem vindo ao meu portfólio.
-
-Sou Marcelo Batalha, desenvolvedor Power Platform.
-
-<a href="https://www.linkedin.com/in/marcelobatalha/">Linkedin</a>
-
 ***
 
 ##  📌 POWER BI
